@@ -20,8 +20,12 @@
     
     *Instructions and examples for use:*
     
-    '/Users/phatle/Desktop/sample readme generator vid.mov'
+
     
+
+https://user-images.githubusercontent.com/87452473/130297096-52c6b19a-aa9d-40a6-b4c9-60764c8a59f4.mov
+
+
     ## License
     
     MIT License

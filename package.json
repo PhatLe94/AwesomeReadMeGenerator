@@ -1,0 +1,24 @@
+{
+  "name": "awesomereadmegenerator",
+  "version": "1.0.0",
+  "description": "cmd line application to generate a README file for better convenience ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PhatLe94/AwesomeReadMeGenerator.git"
+  },
+  "author": "Phat Le",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PhatLe94/AwesomeReadMeGenerator/issues"
+  },
+  "homepage": "https://github.com/PhatLe94/AwesomeReadMeGenerator#readme",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "inquirer": "^8.1.2",
+    "util": "^0.12.4"
+  }
+}

@@ -15,6 +15,8 @@
     *Steps required to install project and how to get the development environment running:*
     
     First run npm install to install the following npm package dependencies. 
+    -Axios: to fetch your info from the GitHub API
+    -Inquirer: that will prompt you for your inputs from the command line
     
     ## Usage 
     

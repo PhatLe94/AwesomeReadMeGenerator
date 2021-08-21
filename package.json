@@ -18,6 +18,7 @@
   "homepage": "https://github.com/PhatLe94/AwesomeReadMeGenerator#readme",
   "dependencies": {
     "axios": "^0.21.1",
+    "fs": "0.0.1-security",
     "inquirer": "^8.1.2",
     "util": "^0.12.4"
   }

@@ -22,9 +22,9 @@ function generateMarkdown(userResponses, userInfo) {
     * [Tests](#tests)`;
   }
 
-  // Generate markdown for the top required portions of the README
+  // Generate markdowns
   let draftMarkdown = `# ${userResponses.title}
-
+    
     ## Description 
     
     *The what, why, and how:* 
